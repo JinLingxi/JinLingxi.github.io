@@ -76,15 +76,8 @@
   </style>
 </noscript>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HCLonely/images@master/others/loading.min.css">
   <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
-  <script>
-  var endLoading = function () {
-    document.body.style.overflow = 'auto';
-    document.getElementById('loading-box').classList.add("loaded");
-  }
-  window.addEventListener('load',endLoading);
- </script>
+
   <style type=''text\css">
   body {
       background: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F82a96a5cf72fecf75c1342f823176be46db7ccdd.jpg&refer=http%3A%2F%2Fi2.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630834486&t=cf6832344d90ddbf9d8704306bf40577);
@@ -100,6 +93,37 @@
 	opacity: 0.8;
 	z-index: 1;
 }
+  body
+  margin 0
+
+.loader
+  position absolute
+  top 50%
+  left 40%
+  margin-left 10%
+  transform translate3d(-50%,-50%,0)
+
+.dot
+  width 24px
+  height 24px
+  background #3ac
+  border-radius 100%
+  display inline-block
+  animation slide 1s infinite
+
+for n in (1..5)
+  .dot:nth-child({n})
+    animation-delay (.1s * n)
+    background red(#3ac, (50 * n))
+
+@keyframes slide
+  0%
+    transform scale(1)
+  50%
+    opacity .3
+    transform scale(2)
+  100%
+    transform scale(1)
   </style>
 <link rel="alternate" href="/atom.xml" title="MathCyclus" type="application/atom+xml">
 </head>
@@ -184,20 +208,12 @@
     <span>0%</span>
   </div>
 
-    <div id="loading-box">
-  <div class="loading-left-bg"></div>
-  <div class="loading-right-bg"></div>
-  <div class="spinner-box">
-    <div class="configure-border-1">
-      <div class="configure-core"></div>
-    </div>
-    <div class="configure-border-2">
-      <div class="configure-core"></div>
-    </div>
-    <div class="loading-word">加载中...</div>
-    </div>
-  </div>
-
+    .loader
+  .dot
+  .dot
+  .dot
+  .dot
+  .dot
     <main class="main">
       <div class="main-inner">
         <div class="content-wrap">
