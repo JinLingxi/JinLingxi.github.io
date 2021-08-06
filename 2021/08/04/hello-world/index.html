@@ -476,6 +476,11 @@ body {
 
           </div>
           
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MzcwMC8zMDE3Mw=="></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -526,7 +531,7 @@ body {
     mini="false"
     fixed="false"
     list-folded="true"
-    autoplay="ture"
+    autoplay="flase"
     volume="0.2"
     theme="#FADFA3"
     order="list"
@@ -809,6 +814,22 @@ window.addEventListener('pjax:success', () => {
   
 
   
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
 
     </div>
   <script type="text/javascript" src="/js/click.js"></script>
