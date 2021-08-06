@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-06T05:42:13.119Z</updated>
+  <updated>2021-08-06T05:48:54.735Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/08/05/000/"/>
     <id>http://example.com/2021/08/05/000/</id>
     <published>2021-08-05T10:00:43.463Z</published>
-    <updated>2021-08-06T05:42:13.119Z</updated>
+    <updated>2021-08-06T05:48:54.735Z</updated>
     
     <content type="html"><![CDATA[<p>这是第一次上传文件的实验~</p><p>不用理会~</p>]]></content>
     
