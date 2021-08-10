@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-06T05:51:19.727Z</updated>
+  <updated>2021-08-10T08:31:05.519Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>近况</title>
+    <link href="http://example.com/2021/08/10/001/"/>
+    <id>http://example.com/2021/08/10/001/</id>
+    <published>2021-08-10T07:44:12.835Z</published>
+    <updated>2021-08-10T08:31:05.519Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近?<br>感觉还是挺充实的,疫情加重了,所以也基本上没咋出去过,天天在家做死宅。<br>不过想学些东西的,可是效率不高吧。。。</p><p><img src="/images/00101.png" alt="00101"></p><p><img src="/images/00102.png" alt="00102"></p><p>最近发现一个好的地方是,能够静下心来写书了,于是进度又再度恢复了,也算好事吧~</p><p>得益于写书,最近其实挺喜欢听听日语歌和纯音乐。<br>大多日语歌能给我带来一种治愈的感觉,而纯音乐则是给人一种奇妙的感觉 :no_mouth: ?</p><p><img src="/images/00104.png" alt="00104"></p><blockquote><p>就像是这首《Time after time ~ 花舞う街で ~ 》一样</p></blockquote><p>也打算在博客中加入一个新栏目,就是偶尔分享我对一些歌曲的看法,然后若是有感到共鸣或是有兴趣的朋友可以尝试去搜索一下下,不过大多应该是短评。</p><p>最近还开始录了一点点线性代数的视频,感兴趣的朋友可以点<a href="https://www.bilibili.com/video/bv1FP4y1x7DG">这里</a>,顺带求个三连啦~<br>最近剑君在数圈也有一些讲座,欢迎大家来我B站看看录屏。</p><p><img src="/images/00103.png" alt="00103"></p><p>今天买了一个新的建模课程,算是计划更加正规的去学习吧,一个人看书对我而言有时候是效率很低的模式。。。<br>就像看《Topology》我还是觉得配合上B站那个《一般拓扑学》的视频学起来才不错 :smile: </p><p>还看了Grant百万粉Q&amp;A视频,对于他阐述的一个观点很赞同,就是给介绍(知识)环节中加入一些小彩蛋,或者是引导情绪的小东西,更受到大家的喜欢。因而之后把书的初稿写完之后,我打算采用这样的形式,希望能成功吧。</p><p>暂且写到这,谢谢您愿意花时间来看我的碎碎念~<br>祝君好运 :kissing_heart: ~</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近?&lt;br&gt;感觉还是挺充实的,疫情加重了,所以也基本上没咋出去过,天天在家做死宅。&lt;br&gt;不过想学些东西的,可是效率不高吧。。。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/00101.png&quot; alt=&quot;00101&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imag</summary>
+      
+    
+    
+    
+    <category term="碎碎念" scheme="http://example.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>example1</title>
