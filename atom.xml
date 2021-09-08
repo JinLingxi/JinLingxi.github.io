@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-30T15:10:49.410Z</updated>
+  <updated>2021-09-08T01:30:45.384Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>快乐的苏格拉底与悲伤的猪</title>
+    <link href="http://example.com/2021/09/08/003/"/>
+    <id>http://example.com/2021/09/08/003/</id>
+    <published>2021-09-08T01:26:28.974Z</published>
+    <updated>2021-09-08T01:30:45.384Z</updated>
+    
+    <content type="html"><![CDATA[<p>09-07<br>我喜欢下雨天,可以治疗失眠。</p><p>09-08<br>兜兜转转</p><p>成长也是终究仍是一条孤独的路…</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;09-07&lt;br&gt;我喜欢下雨天,可以治疗失眠。&lt;/p&gt;
+&lt;p&gt;09-08&lt;br&gt;兜兜转转&lt;/p&gt;
+&lt;p&gt;成长也是终究仍是一条孤独的路…&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="夜紫如是说" scheme="http://example.com/categories/%E5%A4%9C%E7%B4%AB%E5%A6%82%E6%98%AF%E8%AF%B4/"/>
+    
+    
+    <category term="爱情观" scheme="http://example.com/tags/%E7%88%B1%E6%83%85%E8%A7%82/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于商单</title>
     <link href="http://example.com/2021/08/30/sd001/"/>
     <id>http://example.com/2021/08/30/sd001/</id>
     <published>2021-08-30T10:34:31.967Z</published>
-    <updated>2021-08-30T15:10:49.410Z</updated>
+    <updated>2021-09-08T01:27:14.647Z</updated>
     
     <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="ca9f8474c1f1a22c8accedd5756c49c7f6a6d3839ddd7831e81ba7cdd0e6b263">a7e357068c42329b8f33d37c25a789f11241974a0fd1367c5b58b3dc308f9f3bd5717df5ba0c6eb0d5fedd3747fc485cb49f130db566fcb015e9f39ba9047a6c2d74eda7a1f6f9b4fa43a7b54e11e4beb3263705ce4de00fbd28f0a2c0f5d8ff52fd76b5ca87128b013f71ca68f060afc2dba0c263bc3a09b1812c622611a6c3b671e07d53b7cd60d348408525eeaf61eb8a9504ef41be2642e65ca746981bcc4d8d9e1352b22296ecd6d4b7c9ce09fa4898247c7b710ebbfce9e5a784a98d6eff6f46f54a579e97af1b17ab02c3c0e0000ce1a7027ef461b80fbbea7b7f489ed94a7c562cf9e29dcb16ee30fa613a79064c3ad3cbcbee434157135c46f4345a7742ddc34f00a2b5dcb12b401bf90a025921b5b7c5fa6d39ebeb4e6976567e41b23ff7687e29dd00ddbf2422777f581e5c53aa4ae5c8b890fdbcc987761cf0ff2e52c81a4886e63079ba82dd23a9a6d07fc34b4a43d1edd59a105d4a71b574ee65af3885d8f7683fd37bfcf38a331c05f436385653fcaf4afbbf370c081e2ca41c6b8aca051e138709f542e56b6e0c23ef2388e4a05f9daa47ce4b659585c6e2bfe92b0fe77767978aff07562346a81472be562b93d27cd175217796f58cfb38cb245cafd8fbcc8a82211bda7b087e70855c974789fe96c7bd009f288e61df8fc0aa4da566d535c5622bf12230a86c444243b876f791a25c20a878a676aaefe073d9e25ced12fb1c050c200508d197620e1154f9a21c549a1a645f05e644cefd44217808287b7e4c0de784fe3da66a29c0cca86fa86665ca9f92a777875359937774b4bfa125eed8e8fa0fbf0839c4789f5f2ed0c92205906c07622e745f56b4f5db896b4a03a4815785ef76086ceea4db3f658a2584115d8055596c1873a0f523324b7f1c7d2c546d7dee9f55e214998b9c57cc6f960d92c1d078795797f5cb2ff87918b2d6bbc4873d4526d895a859d90e2736a1bbe06431a485fbc932de634c10a652256d2829ce6ea5f3c95b2bbdfb0489fa01fc3ada8b88faa911c4a1b7e3b8326b2f7ae09cee3f58e8a168ced1e2df24708527680f89d26097cbe06c32ed47856ca7755df2c5d3f9e5c5a351756030a348ae1da3e80b4af9203e378a70b3306bef29931ae774e003e6b6c89317a022c1cfb7b8b23f96761fa4e65b1c9f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
@@ -65,7 +92,7 @@
     <link href="http://example.com/2021/08/10/001/"/>
     <id>http://example.com/2021/08/10/001/</id>
     <published>2021-08-10T07:44:12.835Z</published>
-    <updated>2021-08-10T08:45:44.375Z</updated>
+    <updated>2021-09-08T01:27:07.325Z</updated>
     
     <content type="html"><![CDATA[<p>最近?<br>感觉还是挺充实的,疫情加重了,所以也基本上没咋出去过,天天在家做死宅。<br>不过想学些东西的,可是效率不高吧。。。</p><span id="more"></span><p><img src="/images/00101.png" alt="00101"></p><p><img src="/images/00102.png" alt="00102"></p><p>最近发现一个好的地方是,能够静下心来写书了,于是进度又再度恢复了,也算好事吧~</p><p>得益于写书,最近其实挺喜欢听听日语歌和纯音乐。<br>大多日语歌能给我带来一种治愈的感觉,而纯音乐则是给人一种奇妙的感觉  ?</p><p><img src="/images/00104.png" alt="00104"></p><blockquote><p>就像是这首《Time after time ~ 花舞う街で ~ 》一样</p></blockquote><p>也打算在博客中加入一个新栏目,就是偶尔分享我对一些歌曲的看法,然后若是有感到共鸣或是有兴趣的朋友可以尝试去搜索一下下,不过大多应该是短评。</p><p>最近还开始录了一点点线性代数的视频,感兴趣的朋友可以点<a href="https://www.bilibili.com/video/bv1FP4y1x7DG">这里</a>,顺带求个三连啦~<br>最近剑君在数圈也有一些讲座,欢迎大家来我B站看看录屏。</p><p><img src="/images/00103.png" alt="00103"></p><p>今天买了一个新的建模课程,算是计划更加正规的去学习吧,一个人看书对我而言有时候是效率很低的模式。。。<br>就像看《Topology》我还是觉得配合上B站那个《一般拓扑学》的视频学起来才不错❤。 </p><p>还看了Grant百万粉Q&amp;A视频,对于他阐述的一个观点很赞同,就是给介绍(知识)环节中加入一些小彩蛋,或者是引导情绪的小东西,更受到大家的喜欢。因而之后把书的初稿写完之后,我打算采用这样的形式,希望能成功吧。</p><p>暂且写到这,谢谢您愿意花时间来看我的碎碎念~<br>祝君好运 😀 ~</p>]]></content>
     
