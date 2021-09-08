@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-08T01:30:45.384Z</updated>
+  <updated>2021-09-08T01:35:28.732Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>快乐的苏格拉底与悲伤的猪</title>
+    <title>情绪便签</title>
     <link href="http://example.com/2021/09/08/003/"/>
     <id>http://example.com/2021/09/08/003/</id>
     <published>2021-09-08T01:26:28.974Z</published>
-    <updated>2021-09-08T01:30:45.384Z</updated>
+    <updated>2021-09-08T01:35:28.732Z</updated>
     
-    <content type="html"><![CDATA[<p>09-07<br>我喜欢下雨天,可以治疗失眠。</p><p>09-08<br>兜兜转转</p><p>成长也是终究仍是一条孤独的路…</p>]]></content>
+    <content type="html"><![CDATA[<p>09-06<br>想要说对不起,对不起</p><p>09-07<br>我喜欢下雨天,可以治疗失眠。</p><p>09-08<br>兜兜转转</p><p>成长也是终究仍是一条孤独的路…</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;09-07&lt;br&gt;我喜欢下雨天,可以治疗失眠。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;09-06&lt;br&gt;想要说对不起,对不起&lt;/p&gt;
+&lt;p&gt;09-07&lt;br&gt;我喜欢下雨天,可以治疗失眠。&lt;/p&gt;
 &lt;p&gt;09-08&lt;br&gt;兜兜转转&lt;/p&gt;
 &lt;p&gt;成长也是终究仍是一条孤独的路…&lt;/p&gt;
 </summary>
